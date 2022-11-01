@@ -2,14 +2,16 @@ import re
 
 lexema_identificador = re.compile('.+')
 lexema_tipoDeDato = re.compile('void\s.+|int\s.+|float\s.+|double\s.+|char\s.+')
+lexema_comparacion = re.compile('=|==|<|>|===')
+lexema_comparacion_estructuras = re.compile('==|!=|<=|>=')
+lexema_funcion = re.compile('void\s+.+\(.*\)\s*\{?|int\s+.+\(.*\)\s*\{?|float\s+.+\(.*\)\s*\{?|double\s+.+\(.*\)\s*\{?|char\s+.+\(.*\)\s*\{?')
+# lexema_while = re.compile('while\s*\(\w+=\w+|\w+==\w+|\w+!=\w+|\w+<\w+|\w+>\w+|\w+<=\w+|\w+>=\w+|\w+===\w+\)\s*\{?')
 
-# cadena_prueba = 'int main()'
-# matcher = lexema_tipoDeDato.match('int main()')
+funcion_prueba = 'int main() {'
+bucle_prueba = 'while(x <= y) {'
+print(lexema_funcion.findall(funcion_prueba)) # Aceptado por el patrón.
+print(lexema_comparacion_estructuras.findall(bucle_prueba))
 
-m = 0
-for m in lexema_tipoDeDato.finditer('int main()'):
-    print(m)
-#print lexema_tipoDeDato.group(1))
 # Datos.
 
 # lexema_identificador = re.compile('(\w)+(\w)*?')

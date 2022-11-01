@@ -19,3 +19,4 @@ leerArchivos()
 # https://www.freecodecamp.org/espanol/news/python-abre-archivo-como-leer-un-archivo-de-texto-linea-por-linea/
 # https://platzi.com/blog/expresiones-regulares-python/
 # https://platzi.com/contributions/entendiendo-las-expresiones-regulares-con-python/
+# https://platzi.com/blog/como-funcionan-expresiones-regulares/
