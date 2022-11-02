@@ -14,6 +14,8 @@ def leerArchivos():
 
 leerArchivos()
 
+
+
 # Textos de referencia:
 
 # https://www.freecodecamp.org/espanol/news/python-abre-archivo-como-leer-un-archivo-de-texto-linea-por-linea/
