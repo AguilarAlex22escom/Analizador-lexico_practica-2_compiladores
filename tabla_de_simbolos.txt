@@ -1,0 +1,135 @@
+Componente Léxico	| Lexema	| Valor
+Identificador	|include	| INCLUDE
+Identificador	|stdio	| STDIO
+Identificador	|h	| H
+Identificador	|include	| INCLUDE
+Identificador	|string	| STRING
+Identificador	|h	| H
+Identificador	|NO_OF_CHARS	| NO_OF_CHARS
+Identificador	|getNextState	| GETNEXTSTATE
+Identificador	|char	| CHAR
+Identificador	|pat	| PAT
+Identificador	|M	| M
+Identificador	|state	| STATE
+Identificador	|x	| X
+Identificador	|state	| STATE
+Identificador	|M	| M
+Identificador	|x	| X
+Identificador	|pat[state]	| PAT[STATE]
+Identificador	|state	| STATE
+Identificador	|ns	| NS
+Identificador	|i	| I
+Identificador	|ns	| NS
+Identificador	|state	| STATE
+Identificador	|ns	| NS
+Identificador	|ns	| NS
+Identificador	|pat[ns	| PAT[NS
+Identificador	|]	| ]
+Identificador	|x	| X
+Identificador	|i	| I
+Identificador	|i	| I
+Identificador	|ns	| NS
+Identificador	|i	| I
+Identificador	|pat[i]	| PAT[I]
+Identificador	|pat[state	| PAT[STATE
+Identificador	|ns	| NS
+Identificador	|i]	| I]
+Identificador	|break	| BREAK
+Identificador	|i	| I
+Identificador	|ns	| NS
+Identificador	|ns	| NS
+Identificador	|computeTF	| COMPUTETF
+Identificador	|char	| CHAR
+Identificador	|pat	| PAT
+Identificador	|M	| M
+Identificador	|TF[][NO_OF_CHARS]	| TF[][NO_OF_CHARS]
+Identificador	|state	| STATE
+Identificador	|x	| X
+Identificador	|state	| STATE
+Identificador	|state	| STATE
+Identificador	|M	| M
+Identificador	|state	| STATE
+Identificador	|x	| X
+Identificador	|x	| X
+Identificador	|NO_OF_CHARS	| NO_OF_CHARS
+Identificador	|x	| X
+Identificador	|TF[state][x]	| TF[STATE][X]
+Identificador	|getNextState	| GETNEXTSTATE
+Identificador	|pat	| PAT
+Identificador	|M	| M
+Identificador	|state	| STATE
+Identificador	|x	| X
+Identificador	|search	| SEARCH
+Identificador	|char	| CHAR
+Identificador	|pat	| PAT
+Identificador	|txt	| TXT
+Identificador	|M	| M
+Identificador	|strlen	| STRLEN
+Identificador	|pat	| PAT
+Identificador	|N	| N
+Identificador	|strlen	| STRLEN
+Identificador	|txt	| TXT
+Identificador	|TF[M	| TF[M
+Identificador	|][NO_OF_CHARS]	| ][NO_OF_CHARS]
+Identificador	|computeTF	| COMPUTETF
+Identificador	|pat	| PAT
+Identificador	|M	| M
+Identificador	|TF	| TF
+Identificador	|i	| I
+Identificador	|state	| STATE
+Identificador	|i	| I
+Identificador	|i	| I
+Identificador	|N	| N
+Identificador	|i	| I
+Identificador	|state	| STATE
+Identificador	|TF[state][txt[i]]	| TF[STATE][TXT[I]]
+Identificador	|state	| STATE
+Identificador	|M	| M
+Identificador	|printf	| PRINTF
+Identificador	|\n	| \N
+Identificador	|Pattern	| PATTERN
+Identificador	|found	| FOUND
+Identificador	|at	| AT
+Identificador	|index	| INDEX
+Identificador	|d	| D
+Identificador	|i	| I
+Identificador	|M	| M
+Identificador	|txt	| TXT
+Identificador	|AABAACAADAABAAABAA	| AABAACAADAABAAABAA
+Identificador	|pat	| PAT
+Identificador	|AABA	| AABA
+Identificador	|search	| SEARCH
+Identificador	|pat	| PAT
+Identificador	|txt	| TXT
+Estructura selectiva	|if	| IF
+Estructura selectiva	|if	| IF
+Estructura selectiva	|if	| IF
+Estructura selectiva	|if	| IF
+Estructura selectiva	|if	| IF
+Estructura repetitiva	|for	| FOR
+Estructura repetitiva	|for	| FOR
+Estructura repetitiva	|for	| FOR
+Estructura repetitiva	|for	| FOR
+Estructura repetitiva	|for	| FOR
+Tipos de datos	|int	| INT
+Tipos de datos	|char	| CHAR
+Tipos de datos	|int	| INT
+Tipos de datos	|int	| INT
+Tipos de datos	|int	| INT
+Tipos de datos	|int	| INT
+Tipos de datos	|void	| VOID
+Tipos de datos	|char	| CHAR
+Tipos de datos	|int	| INT
+Tipos de datos	|int	| INT
+Tipos de datos	|int	| INT
+Tipos de datos	|void	| VOID
+Tipos de datos	|char	| CHAR
+Tipos de datos	|char	| CHAR
+Tipos de datos	|int	| INT
+Tipos de datos	|int	| INT
+Tipos de datos	|int	| INT
+Tipos de datos	|int	| INT
+Tipos de datos	|int	| INT
+Tipos de datos	|int	| INT
+Tipos de datos	|char	| CHAR
+Tipos de datos	|char	| CHAR
